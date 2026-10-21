@@ -1,0 +1,4 @@
+# Teams = name tags. One row per lead session. Rules: CONVENTIONS.md §5.
+# Columns (tab-separated, none empty — use "-"): team	session name	account	workdir	branch	charter (relative to workdir)
+# workdir: absolute, ~/..., or relative to this repo ("." = this repo, used by the example).
+example	Example lead 1	you@example.com	.	main	docs/teams/example.md
